@@ -4,7 +4,7 @@ public class AddTwoNumbers{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter First num : ");
 		int num1 = sc.nextInt();
-		System.out.println("Enter Decond num : ");
+		System.out.println("Enter Second num : ");
 		int num2 = sc.nextInt();
 		System.out.println("Result : " + (num1+num2));
 	}
