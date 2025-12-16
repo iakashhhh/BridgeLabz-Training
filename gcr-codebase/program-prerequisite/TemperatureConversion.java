@@ -4,6 +4,7 @@ public class TemperatureConversion{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Temp in celsius ");
 		int celsius = sc.nextInt();
-		System.out.println("Temp Fahrenheit" + (Celsius * 9/5) + 32 );
+		int result = (celsius * 9/5) + 32;
+		System.out.println("Temp Fahrenheit " + result);
 	}
 }
