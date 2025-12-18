@@ -17,7 +17,7 @@ public class FactorsPrintingWhile {
                 System.out.println(i);
             }
         }
-        // Closing scanner
+        // Closing scanner  
         input.close();
 	}
 }
