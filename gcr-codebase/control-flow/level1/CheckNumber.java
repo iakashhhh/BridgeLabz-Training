@@ -21,7 +21,6 @@ public class CheckNumber{
 	//number is  zero
 	else{
 		System.out.println("The number is Zero");
-
 	}
 
 	}
