@@ -10,7 +10,7 @@ public class YoungestAndTallest {
         System.out.print("Enter amar age: ");
         int amarAge = input.nextInt();
 		
-		// Get the amar height 
+		// Get the amar height  
         System.out.print("Enter amar height in (cm): ");
         int amarHeight = input.nextInt();
 		
