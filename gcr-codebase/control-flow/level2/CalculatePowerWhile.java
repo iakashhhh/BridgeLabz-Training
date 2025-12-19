@@ -12,7 +12,7 @@ public class CalculatePowerWhile {
         System.out.print("Enter the power: ");
         int power = input.nextInt();
         
-        // Initialize the result variable to 1
+        // Initialize the result variable to 1 
         int result = 1;
         
         // Loop from 1 to power

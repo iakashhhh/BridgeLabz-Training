@@ -7,7 +7,7 @@ public class MultipleOfNumber {
         System.out.print("Enter The an number: ");
         int number = input.nextInt();
 
-        // For loop start as backword 
+        // For loop start as backword  
         for (int i = 100; i >= 1; i--) {
             // Check if the number perfectly divisible by  i
             if (number % i == 0) {

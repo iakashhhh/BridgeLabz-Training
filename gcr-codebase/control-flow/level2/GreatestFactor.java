@@ -15,7 +15,7 @@ public class GreatestFactor{
             // Check if number is perfectly divisible by i
             if (number % i == 0) {
                 greatestFactor = i;
-                break;
+                break; 
             }
         }
         // Display the greatest factor
