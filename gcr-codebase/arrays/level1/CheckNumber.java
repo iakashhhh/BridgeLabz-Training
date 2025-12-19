@@ -29,6 +29,8 @@ public class CheckNumber{
 				
 			}
 		}
+
+		// compare first and last number
 		if(number[0]==number[4]){
 			System.out.println("First nummber "+ number[0] + " and "+ " last number " + number[4] + " are equal");
 		}
