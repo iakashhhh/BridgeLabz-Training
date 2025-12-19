@@ -17,7 +17,7 @@ public class CalculatePower {
         
         // Loop from 1 to power
         for (int i = 1; i <= power; i++) {
-            result *= number;
+            result *= number; 
         }
 
         // Print the result
