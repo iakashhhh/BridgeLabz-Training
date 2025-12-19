@@ -1,0 +1,44 @@
+import java.util.Scanner;
+public class MarksOfStudent {
+    public static void main(String[] args) {
+        // creating variable to store the marks of the three subjects
+        float physics, chemistry, maths;
+
+        Scanner input = new Scanner(System.in);
+		
+		//enter marks in physics
+		System.out.print("Enter the marks of physics: ");
+		physics = input.nextFloat();
+		
+		
+		//enter marks in chemistry
+		System.out.print("Enter the marks of chemistry: ");
+		chemistry = input.nextFloat();
+		
+		//enter marks in maths
+		System.out.print("Enter the marks of maths: ");
+		maths = input.nextFloat();
+		
+		float percentageOfStudent = (physics + chemistry + maths)/3;
+		
+		//Computing the grade of the student
+		if(percentageOfStudent >= 80){
+			System.out.println("Average marks "+ ((physics + chemistry + maths)/3) + "\nGrade is A \nRemark is Level-4, above agency-normalized standard");
+		}else if(percentageOfStudent >= 70 && percentageOfStudent <= 79){
+			System.out.println("Average marks "+ ((physics + chemistry + maths)/3) + "\nGrade is B \nRemark is Level-3, at agency-normalized standard");
+		}else if(percentageOfStudent >= 60 && percentageOfStudent <= 69){
+			System.out.println("Average marks "+ ((physics + chemistry + maths)/3) + "\nGrade is C \nRemark is Level-2, below, but approaching agency-normalized standard");
+		}else if(percentageOfStudent >= 50 && percentageOfStudent <= 59){
+			System.out.println("Average marks "+ ((physics + chemistry + maths)/3) + "\nGrade is D \nRemark is Level-1, well below agency-normalized standard");
+		}else if(percentageOfStudent >= 40 && percentageOfStudent <= 49){
+			System.out.println("Average marks "+ ((physics + chemistry + maths)/3) + "\nGrade is E \nRemark is Level-1-, too below agency-normalized standard");
+		}else{
+			System.out.println("Average marks "+ ((physics + chemistry + maths)/3) + "\nGrade is R \nRemark isRemedial Standards");
+		}
+		
+		
+			
+        // Closing the scanner
+        input.close();
+	}	
+}
