@@ -1,9 +1,16 @@
 import java.util.Scanner;
 public class VowelConsonantCount2D{
-
+    // program to convert all char to lowercase
+    public static char ConvertToLowerCase(char ch){
+        // Value contains the result string after converted into the Lower case
+        if(ch >= 'A'  && ch <= 'Z'){
+            ch = (char) (ch + 32);
+        }
+        return ch;
+    }
     // Method to check if a character is a vowel, consonant, or not a letter
     public static String checkCharacterType(char ch) {
-        ch = Character.toLowerCase(ch);
+        ConvertToLowerCase(ch);
         if (ch >= 'a' && ch <= 'z') {
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
                 return "Vowel";
