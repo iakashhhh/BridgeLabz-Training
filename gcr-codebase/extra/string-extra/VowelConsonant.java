@@ -35,6 +35,7 @@ public class VowelConsonant{
 		// print result
 		System.out.println("Number of vowels: " + resultArr[0]);
 		System.out.println("Number of consonant: " + resultArr[1]);
+		
 
 	}
 }
