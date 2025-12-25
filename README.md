@@ -34,7 +34,7 @@ BridgeLabz-Training/
 •⁠  ⁠Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 *Code Link:*  
- [Day 2 – Basic Java Programs](https://github.com/iakashhhh/BeidgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+ [Day 2 – Basic Java Programs](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -49,7 +49,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
- [Day 3 – Programming Elements](https://github.com/iakashhhh/BeidgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+ [Day 3 – Programming Elements](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -71,7 +71,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
- [Day 4 – Control Flow](https://github.com/iakashhhh/BeidgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+ [Day 4 – Control Flow](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 ###  Day 5 – Arrays & Basic Problem Solving  
@@ -88,7 +88,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
- [Day 5 – Arrays](https://github.com/iakashhhh/BeidgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+ [Day 5 – Arrays](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 ###  Day 6 – Strings & Methods  
@@ -107,6 +107,22 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
- [Day 6 – Strings & Methods](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+  [Day 6 - Methods](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+ [Day 6 – Strings](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
+
+###  Day 7 – Built-in Functions & Extra Practice  
+**(Date: 23-Dec-2025)**
+
+- Practiced Java built-in functions.
+- Implemented utility programs such as:
+  - Temperature Converter
+- Improved understanding of:
+  - Input handling
+  - Type conversion
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+ [Day 7 – Built-in Functions](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
