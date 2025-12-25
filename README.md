@@ -1,1 +1,1 @@
-# BeidgeLabz-Training
+# BridgeLabz-Training
