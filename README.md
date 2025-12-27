@@ -29,9 +29,9 @@ BridgeLabz-Training/
 ###  Day 2 – Git Practice & Basic Java Programs  
 *(Date: 17-Dec-2025)*
 
-•⁠  ⁠Practiced Git workflow to understand commits and version control.
-•⁠  ⁠Solved very basic Java programs to understand syntax and structure.
-•⁠  ⁠Practiced adding, committing, and pushing Java files to GitHub.
+- ⁠Practiced Git workflow to understand commits and version control.
+- ⁠Solved very basic Java programs to understand syntax and structure.
+- ⁠Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 *Code Link:*  
  [Day 2 – Basic Java Programs](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
@@ -126,3 +126,24 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
  [Day 7 – Built-in Functions](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+ ---
+
+ ## Leetcode Practice
+ - Practiced Leetcode questions on previously learned topics:
+ - Two Sum
+ - Remove Element
+ - Matrix Spiral
+
+**🔗 Link** [View on GitHub](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)
+
+---
+
+## Scenario Based Practice
+- BMICalculator.java
+- CoffeeCounter.java
+- ElectionBoothManager.java
+- MetroSmartCard.java
+- RajResultGenerator.java
+
+**🔗 Link** [View on GitHub](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
