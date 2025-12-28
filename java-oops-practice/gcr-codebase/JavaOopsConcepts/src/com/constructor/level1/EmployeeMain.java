@@ -1,29 +1,15 @@
 package com.constructor.level1;
 
-public class Employee {
-	// Access modifiers
-    public int employeeID;
-    protected String department;
-    private double salary;
+public class EmployeeMain {
+	public static void main(String[] args) {
 
-    // Constructor
-    Employee(int employeeID, String department, double salary) {
-        this.employeeID = employeeID;
-        this.department = department;
-        this.salary = salary;
-    }
+        Manager manager = new Manager( 501,"IT", 75000, "Senior Manager");
 
-    // Public getter for salary
-    public double getSalary() {
-        return salary;
-    }
+        manager.displayDetails();
 
-    // Public setter to modify salary
-    public void setSalary(double salary) {
-        if (salary > 0) {
-            this.salary = salary;
-        } else {
-            System.out.println("Invalid salary amount");
-        }
+        // Modify salary using public method
+        manager.setSalary(85000);
+
+        System.out.println("\nUpdated Salary: ₹" + manager.getSalary());
     }
 }
