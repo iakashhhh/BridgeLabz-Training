@@ -134,6 +134,16 @@ BridgeLabz-Training/
  - Two Sum
  - Remove Element
  - Matrix Spiral
+ - Buy Sell Stock
+ - MaxConsecutiveOnes.java
+ - Missing Number.java
+ - MoveZeroes.java
+ - RemoveDuplicates.java
+ - RemoveElement.java
+ - SingleNumber
+ - SortColors
+ - TargetSum
+ - TwoSum
 
 **🔗 Link** [View on GitHub](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)
 
