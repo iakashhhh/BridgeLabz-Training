@@ -112,48 +112,110 @@ BridgeLabz-Training/
 
 ---
 
-###  Day 7 – Built-in Functions & Extra Practice  
-**(Date: 23-Dec-2025)**
+### Day 7 – Extras (Built-In Methods & String Practice)
 
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
+*(Date: 23-Dec-2025)*
 
-🔗 **Code Link:**  
- [Day 7 – Built-in Functions](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+- Practiced built-in Java methods and additional string operations.
+- Worked on date/time operations and recursive algorithms.
+- Completed and pushed `extras` to GitHub.
 
- ---
-
- ## Leetcode Practice
- - Practiced Leetcode questions on previously learned topics:
- - Two Sum
- - Remove Element
- - Matrix Spiral
- - Buy Sell Stock
- - MaxConsecutiveOnes.java
- - Missing Number.java
- - MoveZeroes.java
- - RemoveDuplicates.java
- - RemoveElement.java
- - SingleNumber
- - SortColors
- - TargetSum
- - TwoSum
-
-**🔗 Link** [View on GitHub](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)
+🔗 *Link:* [View on GitHub](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ---
 
-## Scenario Based Practice
-- BMICalculator.java
-- CoffeeCounter.java
-- ElectionBoothManager.java
-- MetroSmartCard.java
-- RajResultGenerator.java
+## LeetCode and Scenario-Based Practice
 
-**🔗 Link** [View on GitHub](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+### Day 8  
+
+*(Date: 24-Dec-2025)*
+
+- Solved leetcode array questions on previously learned topics.
+  - Two Sum
+  - Remove Element
+  - Matrix Spiral
+- Practiced real life, scenario based problems.
+  - BMI Fitness Tracker
+  - Coffee Counter Chronicles
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link:* [LeetCode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays) 
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### Day 9
+
+*(Date: 26-Dec-2025)*
+
+- Solved leetcode array questions on previously learned topics.
+  - Buy Sell Stock
+  - RemoveDuplicates
+  - RemoveElement
+- Solved questions on real world scenario.
+  - Election Booth Manager
+  - Metro Smart Card
+  - Result Generator
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link:* [LeetCode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays) 
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+###  Day 10
+
+*(Date: 27-Dec-2025)*
+
+- Solved leetcode string questions on previously learned topics.
+  - SingleNumber
+  - SortColors
+  - TargetSum
+- Implemented the previously learned topics.
+- Completed and pushed on GitHub.
+
+ 🔗 *Link:* [LeetCode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays) 
+
+---
+
+### Day 11
+
+*(Date: 29-Dec-2025)*
+
+- Solved questions on real world scenario.
+  - Parking System
+  - Number Guessing Game
+  - Discound Dashboard
+  - Bus Attendance System
+  - Phone Recharge Simulator
+- Implemented the previously learned topics.
+- Completed and pushed on GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+---
+
+### Day 12
+
+*(Date: 30-Dec-2025)*
+- Solved leetcode string questions on previously learned topics.
+   - Valid Anagram
+- Solved scenario-based Core Java programs:
+  - Fitness Tracker
+  - Library Reminder App
+  - Movie Ticket Booking App
+  - Train Reservation System
+  - Week Temperature Logger
+- Used switch, if-else, loops, arrays, and methods.
+
+- Completed implementation and pushed code to GitHub.
+
+  
+🔗 *Link:* [LeetCode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/string) 
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
