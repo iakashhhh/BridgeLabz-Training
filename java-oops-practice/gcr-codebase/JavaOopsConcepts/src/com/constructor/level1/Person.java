@@ -27,8 +27,7 @@ public class Person {
         System.out.println("Mobile : " + mobile);
     }
 	
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> e3ed88e ([Akash] : Added employee program)
+
+
+
