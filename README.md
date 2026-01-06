@@ -279,7 +279,7 @@ Java oops
 
 ---
 
-### Day 5 – Java Inheritance & Polymorphism
+### Day 13 – Java Inheritance & Polymorphism
 
 *(Date: 31-Dec-2025)*
 
@@ -294,7 +294,7 @@ Java oops
 
 ---
 
-### Day 6 – Encapsulation, Polymorphism & OOP Scenario-Based Design
+### Day 14 – Encapsulation, Polymorphism & OOP Scenario-Based Design
 
 *(Date: 01-Jan-2026)*
 
@@ -310,7 +310,7 @@ Java oops
 
 --- 
 
-### Day 7– Scenario Based Problems
+### Day 15– Scenario Based Problems
 
 *(Date: 02-Jan-2026)*
 
