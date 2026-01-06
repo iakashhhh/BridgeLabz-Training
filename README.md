@@ -231,3 +231,9 @@ BridgeLabz-Training/
 
 ---
 
+### Day 14
+*(Date: 5-Dec-2025)*
+- Solved leetcode string questions on previously learned topics.
+   - LongestCommonPrefix
+   - Max consecutive ones
+🔗 *Link:* [LeetCode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/string)
