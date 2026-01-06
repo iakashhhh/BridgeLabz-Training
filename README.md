@@ -21,7 +21,7 @@
 - Solved basic Java syntax programs  
 - Committed and pushed Java files  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
+🔗 [Link](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -33,7 +33,7 @@
 - User input/output  
 - Programming element problems  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+🔗 [Programming elements](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -45,7 +45,7 @@
 - break & continue  
 - Factorial and Prime Number programs  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+🔗 [Control Flow](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -56,7 +56,7 @@
 - Array traversal  
 - Missing element problems  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+🔗 [Arrays](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -67,8 +67,9 @@
 - Character processing  
 - Methods and parameter passing  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods  
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string
+🔗 [Methods](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)  
+
+🔗 [String](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
 
@@ -79,7 +80,7 @@
 - Temperature Converter  
 - Type conversion and input handling  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+🔗 [Built-in functions](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ---
 
@@ -95,8 +96,8 @@
 - BMI Calculator  
 - Coffee Counter Chronicles  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays  
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+🔗 [Leetcode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)  
+🔗 [Scenario based](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -115,7 +116,9 @@
 - Procedural vs OOP  
 - Class & Object concepts  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject
+🔗 [Class & objects](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+🔗 [Leetcode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)  
 
 ---
 
@@ -133,44 +136,60 @@
 - Access modifiers  
 - Static vs instance members  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1
+🔗[Constructors](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+🔗 [Leetcode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)  
 
 ---
 
 ## **Day 11 – Scenario Programs + Java Keywords**  
 📅 *29-Dec-2025*
-
-**Core Java**
+- Understood the purpose and usage of the this keyword to refer to the current object and resolve variable ambiguity and contructor chaining.
+- Learned the static keyword and its use with variables, methods, and blocks to share data across objects.
+- Studied the final keyword and its application with variables, methods, and classes to restrict modification and inheritance.
+- Practiced the instanceof keyword to check object type and ensure safe type casting.
+- Completed multiple real-world programs to strengthen understanding and practical implementation of these keywords.
+- 
+**Scenario Based**
 - Parking System  
 - Number Guessing Game  
 - Discount Dashboard  
 - Bus Attendance System  
 - Phone Recharge Simulator  
 
-**Java OOPS**
-- this, static, final, instanceof  
+🔗*Link :* [Keywords](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords
+🔗 *Link :* [oops scenario based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
 ---
 
-## **Day 12 – Strings + Object Modelling & UML**  
+## **Day 12 – Object Modelling & UML**  
 📅 *30-Dec-2025*
 
-**Core Java**
-- Valid Anagram  
-- Fitness Tracker  
-- Library Reminder  
-- Movie Ticket Booking  
-- Train Reservation  
-- Weekly Temperature Logger  
+- Understood the difference between classes and objects, where a class acts as a blueprint and objects represent real instances created at runtime.
+- Learned about class diagrams and how they define the static structure of a system using classes, attributes, methods, and relationships.
+- Studied object diagrams to visualize actual object instances and their state at a specific point in time.
+- Explored sequence diagrams to understand the flow of interactions and method calls between objects in a time-ordered manner.
 
-**Java OOPS**
-- Object modelling  
-- Class relationships  
-- UML basics  
+- Solved leetcode array questions on previously learned topics.
+  - Valid Anagram  
+  - Add String
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling
+- Solved questions on real world scenario.
+    - Temperature Logger
+    - Train Reservation
+    - Fitness Tracker
+    - Movie Ticket Booking
+    - Library Fine Reminder
+Implemented the previously learned topics.
+Completed and pushed to GitHub.
+ 
+
+🔗 *Link :* [UML](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+🔗 *Link :* [Oops scenario based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+🔗 *Link :* [Leetcode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)  
 
 ---
 
@@ -181,7 +200,7 @@
 - Method overriding  
 - Constructor chaining  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
+🔗 *Link :* [Inheritance](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 ---
 
@@ -192,22 +211,12 @@
 - Compile-time & runtime polymorphism  
 - Abstract class vs Interface  
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation_polymorphism_abstraction
+🔗 *Link :* [Encapsulation, Abstraction & Polymorphism](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation_polymorphism_abstraction)
+
 
 ---
-
-## **Day 15 – OOP Scenario-Based Design**  
+## **Day 15 – DSA(Linkedlist) & OOP Scenario-Based**  
 📅 *02-Jan-2026*
-
-- End-to-end OOP design  
-- Interfaces and abstraction  
-- instanceof and safe downcasting  
-
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src
-
----
-## **Day 16 – DSA & OOP Scenario-Based**  
-📅 *03-Jan-2026*
 #### Data Structure Concepts
 - Learned the introduction and importance of data structures in organizing and managing data efficiently.
 - Studied key features of data structures in Java such as efficiency, reusability, and optimization.
@@ -216,23 +225,22 @@
 - Studied doubly linked lists and how they allow traversal in both directions.
 - Understood circular linked lists and their advantages over linear linked lists.
 
-🔗 *Link :* [Linked List](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist)
-
-#### OOP Scenario-Based
-- Bank Management System
-- Cabby go program
-- smart home automation system
-- e wallet system
+#### OOP Scenario-Based Design**  
 - university enrollment system
 - Vehicle rental system
 - Hospital patient management system
+- - smart home automation system
+- e wallet system
 
-🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src
+🔗 *Link :* [Linked List](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist)
+  
+🔗 *Link :* [oops scenario based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
 ---
-## Day 17 - Stack, Queue, HashMap and Hashing Functions
 
-*(Date: 04-Jan-2026)*
+## Day 16 - Stack, Queue, HashMap and Hashing Functions
+
+📅 *(Date: 03-Jan-2026)*
 
 - Learned the concept of stack and its working based on the LIFO (Last In, First Out) principle.
 - Studied queue and its working based on the FIFO (First In, First Out) principle.
@@ -240,7 +248,38 @@
 - Learned the concept of hashing and how a hashing function works.
 - Studied HashMap in Java and how it stores data using key–value pairs for fast access.
 
+ #### Oops Scenario Based
+- Bank Management System
+- Cabby go program
+
+
 🔗 *Link :* [Stack and Queue](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
+
 🔗 *Link :* [HashMap and HashingFunction](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmap)
 
+🔗 *Link :* [oops scenario based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
+---
+
+## Day 17 - Sorting Algorithms & Scenario-Based
+
+📅 *(Date: 05-Jan-2026)*
+
+- Studied and implemented different sorting algorthims.
+- Bubble Sort: Repeatedly compares and swaps adjacent elements until the list is fully sorted.
+- Insertion Sort: Builds the sorted array one element at a time by inserting each element into its correct position.
+- Merge Sort: Uses a divide-and-conquer approach to split the array and merge sorted subarrays into a final sorted array.
+- Quick Sort: Partitions the array around a pivot and recursively sorts the subarrays for efficient average performance.
+- Counting Sort: Sorts elements by counting occurrences of each value, making it efficient for a known, limited range of integers.
+- Selection Sort: Repeatedly selects the smallest element from the unsorted portion and places it at the correct position.
+- Heap Sort: Uses a heap data structure to repeatedly extract the maximum or minimum element to produce a sorted array.
+
+ #### Practiced real life, scenario based problems.
+- CampusConnect – College Information System
+- SwiftCart – The Grocery Shopping App
+  
+🔗 *Link :* [Sorting](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sortingalgorithms)
+
+🔗 Link : [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+--- 
