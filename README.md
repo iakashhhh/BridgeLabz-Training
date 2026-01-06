@@ -219,3 +219,15 @@ BridgeLabz-Training/
 🔗 *Link:* [LeetCode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/string) 
 
 🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### Day 13
+*(Date: 2-Dec-2025)*
+- Solved leetcode string questions on previously learned topics.
+   - String palindrome
+   - Roman to integer (string)
+🔗 *Link:* [LeetCode](https://github.com/iakashhhh/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/string)
+
+---
+
