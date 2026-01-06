@@ -4,7 +4,7 @@
 
 ---
 
-### **Day 1 – Git & GitHub Setup**  
+## **Day 1 – Git & GitHub Setup**  
 📅 *16-Dec-2025*
 
 - Installed and configured Git  
@@ -14,7 +14,7 @@
 
 ---
 
-### **Day 2 – Git Practice & Basic Java Programs**  
+## **Day 2 – Git Practice & Basic Java Programs**  
 📅 *17-Dec-2025*
 
 - Practiced Git workflow and version control  
@@ -25,7 +25,7 @@
 
 ---
 
-### **Day 3 – Programming Elements in Java**  
+## **Day 3 – Programming Elements in Java**  
 📅 *18-Dec-2025*
 
 - Variables and data types  
@@ -37,7 +37,7 @@
 
 ---
 
-### **Day 4 – Control Flow & Logical Constructs**  
+## **Day 4 – Control Flow & Logical Constructs**  
 📅 *19-Dec-2025*
 
 - if, if-else, switch, ternary  
@@ -49,7 +49,7 @@
 
 ---
 
-### **Day 5 – Arrays & Logical Problem Solving**  
+## **Day 5 – Arrays & Logical Problem Solving**  
 📅 *20-Dec-2025*
 
 - Single & multi-dimensional arrays  
@@ -60,7 +60,7 @@
 
 ---
 
-### **Day 6 – Strings & Methods**  
+## **Day 6 – Strings & Methods**  
 📅 *22-Dec-2025*
 
 - String creation and manipulation  
@@ -72,7 +72,7 @@
 
 ---
 
-### **Day 7 – Built-in Functions & Extra Practice**  
+## **Day 7 – Built-in Functions & Extra Practice**  
 📅 *23-Dec-2025*
 
 - Java built-in methods  
@@ -83,7 +83,7 @@
 
 ---
 
-### **Day 8 – LeetCode & Scenario-Based Practice**  
+## **Day 8 – LeetCode & Scenario-Based Practice**  
 📅 *24-Dec-2025*
 
 **LeetCode**
@@ -100,7 +100,7 @@
 
 ---
 
-### **Day 9 – Advanced Arrays + OOP Basics (Class & Object)**  
+## **Day 9 – Advanced Arrays + OOP Basics (Class & Object)**  
 📅 *26-Dec-2025*
 
 **Core Java**
@@ -119,7 +119,7 @@
 
 ---
 
-### **Day 10 – LeetCode + Constructors & Access Modifiers**  
+## **Day 10 – LeetCode + Constructors & Access Modifiers**  
 📅 *27-Dec-2025*
 
 **Core Java**
@@ -137,7 +137,7 @@
 
 ---
 
-### **Day 11 – Scenario Programs + Java Keywords**  
+## **Day 11 – Scenario Programs + Java Keywords**  
 📅 *29-Dec-2025*
 
 **Core Java**
@@ -154,7 +154,7 @@
 
 ---
 
-### **Day 12 – Strings + Object Modelling & UML**  
+## **Day 12 – Strings + Object Modelling & UML**  
 📅 *30-Dec-2025*
 
 **Core Java**
@@ -174,7 +174,7 @@
 
 ---
 
-### **Day 13 – Inheritance & Polymorphism**  
+## **Day 13 – Inheritance & Polymorphism**  
 📅 *31-Dec-2025*
 
 - Inheritance types  
@@ -185,7 +185,7 @@
 
 ---
 
-### **Day 14 – Encapsulation, Abstraction & Polymorphism**  
+## **Day 14 – Encapsulation, Abstraction & Polymorphism**  
 📅 *01-Jan-2026*
 
 - Encapsulation  
@@ -196,7 +196,7 @@
 
 ---
 
-### **Day 15 – OOP Scenario-Based Design**  
+## **Day 15 – OOP Scenario-Based Design**  
 📅 *02-Jan-2026*
 
 - End-to-end OOP design  
@@ -206,9 +206,19 @@
 🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src
 
 ---
-### **Day 16 – OOP Scenario-Based**  
+## **Day 16 – DSA & OOP Scenario-Based**  
 📅 *03-Jan-2026*
+#### Data Structure Concepts
+- Learned the introduction and importance of data structures in organizing and managing data efficiently.
+- Studied key features of data structures in Java such as efficiency, reusability, and optimization.
+- Understood different types of data structures in Java including linear and non-linear structures.
+- Learned the concept and working of single linked lists.
+- Studied doubly linked lists and how they allow traversal in both directions.
+- Understood circular linked lists and their advantages over linear linked lists.
 
+🔗 *Link :* [Linked List](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist)
+
+#### OOP Scenario-Based
 - Bank Management System
 - Cabby go program
 - smart home automation system
@@ -218,3 +228,6 @@
 - Hospital patient management system
 
 🔗 https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src
+
+---
+
