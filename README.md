@@ -100,6 +100,8 @@
   
 *🔗 Code Link:*  [Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
+---
+
 #### Day 8
 
 *(Date: 03-Jan-2026)*
@@ -115,4 +117,20 @@
 🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
 ---
+
+
+#### Day 9
+
+*(Date: 05-Jan-2026)*
+
+- Solved scenario-based application using OOP concepts.
+  - Campus Connect System
+  - swift cart 
+- Designed entities, responsibilities, and interactions based on real-world requirements.
+- Implemented and pushed code to GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
+
 
