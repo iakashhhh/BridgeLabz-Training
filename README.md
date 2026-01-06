@@ -87,7 +87,7 @@
 
 --- 
 
-### Day 7– Scenario Based Problems
+## Day 7– Scenario Based Problems
 
 *(Date: 02-Jan-2026)*
 
@@ -99,4 +99,20 @@
 - Understood type casting and instanceof for safe downcasting in polymorphic scenarios, and compared Abstract Classes vs Interfaces with their use cases and best practices
   
 *🔗 Code Link:*  [Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+#### Day 8
+
+*(Date: 03-Jan-2026)*
+
+- Solved real-life scenario based OOP problems.
+  - Bank Management System
+  - Cab Booking System
+  - Smart Home Automation System
+  - E-Wallet System
+- Focused on designing classes and object interaction for real-world use cases.
+- Implemented and pushed code to GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
 
