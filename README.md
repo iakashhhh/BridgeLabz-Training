@@ -2,7 +2,7 @@
 
 ### Day 1 - Linked List
 
-*(Date: 03-Jan-2026)*
+*(Date: 02-Jan-2026)*
 
 - Learned the introduction and importance of data structures in organizing and managing data efficiently.
 - Studied key features of data structures in Java such as efficiency, reusability, and optimization.
@@ -17,7 +17,7 @@
 
 ### Day 2 - Stack, Queue, HashMap and Hashing Functions
 
-*(Date: 04-Jan-2026)*
+*(Date: 03-Jan-2026)*
 
 - Learned the concept of stack and its working based on the LIFO (Last In, First Out) principle.
 - Studied queue and its working based on the FIFO (First In, First Out) principle.
@@ -27,3 +27,23 @@
 
 🔗 *Link :* [Stack and Queue](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
 🔗 *Link :* [HashMap and HashingFunction](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmap)
+
+---
+
+### Day 3 - Sorting Algorithms
+
+*(Date: 05-Jan-2026)*
+
+- Learned and implemented sorting algorithms in Java:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+  - Counting Sort
+- Pushed implementations to GitHub.
+
+🔗 *Link :* [Sorting Algorithms](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sortingalgorithms)
+
+---
