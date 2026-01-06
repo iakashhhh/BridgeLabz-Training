@@ -87,7 +87,10 @@
 
 --- 
 
-## Day 7– Scenario Based Problems
+
+## – Scenario Based Problems -
+
+#### Day 7
 
 *(Date: 02-Jan-2026)*
 
@@ -133,4 +136,19 @@
 
 ---
 
+#### Day 10
+
+*(Date: 06-Jan-2026)*
+
+- Solved multiple real-life scenario based OOP problems.
+  - Grocery Shopping System
+  - EduMentor Learning Platform
+  - FitTrack Fitness Tracker
+  - PetPal Pet Care System
+- Applied OOP concepts to model real-world systems.
+- Implemented and pushed code to GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
 
