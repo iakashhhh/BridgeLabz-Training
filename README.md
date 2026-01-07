@@ -145,6 +145,21 @@
   - EduMentor Learning Platform
   - FitTrack Fitness Tracker
   - PetPal Pet Care System
+  - EventEase – Event Management Platform
+- Applied OOP concepts to model real-world systems.
+- Implemented and pushed code to GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
+#### Day 11
+
+*(Date: 07-Jan-2026)*
+
+- Solved multiple real-life scenario based OOP problems.
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
 - Applied OOP concepts to model real-world systems.
 - Implemented and pushed code to GitHub.
 
