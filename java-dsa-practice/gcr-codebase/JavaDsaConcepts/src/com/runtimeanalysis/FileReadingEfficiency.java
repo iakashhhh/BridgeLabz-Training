@@ -4,7 +4,7 @@ import java.io.*;
 
 public class FileReadingEfficiency {
 
-    private static final String FILE_PATH = "Users/akashsharma/BridgeLabz-Training/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/runtimeanalysis/FilereadSample.txt"; 
+    private static final String FILE_PATH = "/Users/akashsharma/BridgeLabz-Training/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/runtimeanalysis/FilereadSample.txt"; 
 
     // FileReader
     public static void readUsingFileReader() throws IOException {
