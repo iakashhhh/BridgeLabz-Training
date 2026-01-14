@@ -388,3 +388,15 @@ ___
 
 ---
 
+### Day 24 - Scenario-Based(DSA)
+
+*(Date: 13-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+ - SmartCheckout – Supermarket Billing Queue
+ - ParcelTracker – Delivery Chain Management
+ - ExamProctor – Online Exam Review System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
