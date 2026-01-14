@@ -357,7 +357,7 @@ ___
 
 ---
 
-### Day 22 - Scenario-Based
+### Day 22 - Scenario-Based(DSA)
 
 *(Date: 10-Jan-2026)*
 
@@ -368,3 +368,23 @@ ___
 -  Successfully completed all assigned programs and verified the output results.
 
 🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
+
+### Day 23 - Scenario-Based(DSA)
+
+*(Date: 12-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+ - CallCenter – Customer Queue Manager 
+ - TrainCompanion – Compartment Navigation System
+ - TextEditor – Undo/Redo Functionality
+ - TrafficManager – Roundabout Vehicle Flow
+ - BookShelf – Library Organizer
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
