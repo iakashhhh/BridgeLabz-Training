@@ -400,3 +400,18 @@ ___
 
 🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
+---
+
+### Day 25 - Scenario-Based(DSA)
+
+*(Date: 15-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+   - HospitalQueue – Patient Sorting by Criticality
+   - SmartShelf – Real-Time Book Arrangement
+   - ZipZipMart – Daily Sales Summary Report
+   - EventManager – Ticket Price Optimizer
+   - ExamCell – Student Rank Generator
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
