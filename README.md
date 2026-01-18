@@ -141,3 +141,16 @@ ___
 🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+
+###  Day 10 
+**(Date: 16-Jan-2026)**
+
+- `RoboWarehouse` (Insertion Sort) – Dynamically inserted package weights while maintaining ascending order; optimized for low memory and streaming data.
+- `CinemaHouse` (Bubble Sort) – Sorted small sets of movie showtimes using simple, easy-to-maintain logic.
+- `CropMonitor` (Quick Sort) – Efficiently sorted large, unordered sensor data by timestamp using fast partition-based sorting.
+- Practiced choosing optimal sorting algorithms based on real-world constraints.
+
+🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
