@@ -154,3 +154,15 @@ ___
 
 ---
 
+### Day 11 
+**(Date: 17-Jan-2026)**
+
+- `ArtExpo` (Insertion Sort) – Maintained artist registrations sorted by time with real-time insertions.
+- `FleetManager` (Merge Sort) – Combined sorted vehicle maintenance lists from multiple depots efficiently.
+- `IceCreamRush` (Bubble Sort) – Sorted ice cream flavors by weekly popularity for a small dataset.
+- `SmartLibrary` (Insertion Sort) – Automatically kept borrowed books alphabetically sorted during dynamic insertions.
+- Practiced selecting Bubble, Insertion, Merge, and Quick Sort based on data size, order, and real-world constraints.
+
+🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
