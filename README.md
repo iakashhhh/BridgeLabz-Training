@@ -362,9 +362,9 @@ ___
 *(Date: 10-Jan-2026)*
 
 - Practiced real life, scenario based problems.
- - BookShelf – Library Organizer 
- - BrowserBuddy – Tab History Manager
- - AmbulanceRoute – Emergency Patient Navigation
+   - BookShelf – Library Organizer 
+   - BrowserBuddy – Tab History Manager
+   - AmbulanceRoute – Emergency Patient Navigation
 -  Successfully completed all assigned programs and verified the output results.
 
 🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
@@ -377,14 +377,19 @@ ___
 *(Date: 12-Jan-2026)*
 
 - Practiced real life, scenario based problems.
- - CallCenter – Customer Queue Manager 
- - TrainCompanion – Compartment Navigation System
- - TextEditor – Undo/Redo Functionality
- - TrafficManager – Roundabout Vehicle Flow
- - BookShelf – Library Organizer
+   - CallCenter – Customer Queue Manager 
+   - TrainCompanion – Compartment Navigation System
+   - TextEditor – Undo/Redo Functionality
+   - TrafficManager – Roundabout Vehicle Flow
+   - BookShelf – Library Organizer
+   - HomeNest – Managed smart devices (Light, Camera, Thermostat, Lock) with inheritance, interfaces, encapsulation,         and polymorphism.
+   - BudgetWise – Tracked income/expenses and budgets using inheritance and polymorphic reports.
+   - GameBox – Mobile game platform with genre-based behavior, secure user data, and seasonal offers.
 -  Successfully completed all assigned programs and verified the output results.
 
-🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [OOPs Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
 ---
 
@@ -393,19 +398,24 @@ ___
 *(Date: 13-Jan-2026)*
 
 - Practiced real life, scenario based problems.
- - SmartCheckout – Supermarket Billing Queue
- - ParcelTracker – Delivery Chain Management
- - ExamProctor – Online Exam Review System
+   - SmartCheckout – Supermarket Billing Queue
+   - ParcelTracker – Delivery Chain Management
+   - ExamProctor – Online Exam Review System
+   - `PayXpress` – Utility Bill Payment System – Managed bills (Electricity, Water, Internet) with inheritance, interfaces, encapsulation, and polymorphic reminders.
+   - `Bird Sanctuary` – Tracked birds with different abilities (fly/swim/both/none) using inheritance, interfaces, and polymorphism; maintained a list of birds and behavior-based actions.
+
 -  Successfully completed all assigned programs and verified the output results.
 
-🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+🔗 *Link :* [OOPs Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
 ---
 
 ### Day 25 - Scenario-Based(DSA)
 
 *(Date: 15-Jan-2026)*
-
+- Covered Java Generics fundamentals: type safety, reusability, bounded types, and wildcards.
+- Implemented real-world generic systems: Smart Warehouse, Online Marketplace, Course Management, Meal Planner, AI Resume Screening.
 - Practiced real life, scenario based problems.
    - HospitalQueue – Patient Sorting by Criticality
    - SmartShelf – Real-Time Book Arrangement
@@ -414,4 +424,21 @@ ___
    - ExamCell – Student Rank Generator
 -  Successfully completed all assigned programs and verified the output results.
 
-🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+--- 
+
+###  Day 26 – Java Collections & DSA Sorting Scenarios
+**(Date: 16-Jan-2026)**
+
+- Practiced List, Set, Queue, and Map interfaces with real-world problems.
+- Implemented list operations, set calculations, queue/stack simulations, and map-based analytics.
+- Built Insurance Policy Management and Voting System using HashMap, LinkedHashMap, TreeMap, and Sets.
+- `RoboWarehouse` (Insertion Sort) – Dynamically inserted package weights while maintaining ascending order; optimized for low memory and streaming data.
+- `CinemaHouse` (Bubble Sort) – Sorted small sets of movie showtimes using simple, easy-to-maintain logic.
+- `CropMonitor` (Quick Sort) – Efficiently sorted large, unordered sensor data by timestamp using fast partition-based sorting.
+- Practiced choosing optimal sorting algorithms based on real-world constraints.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
