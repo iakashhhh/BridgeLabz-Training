@@ -1,4 +1,4 @@
-package sorting.fitnesstracker;
+package fitnesstracker;
 
 import java.util.Scanner;
 
