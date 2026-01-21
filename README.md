@@ -432,13 +432,31 @@ ___
 **(Date: 16-Jan-2026)**
 
 - Practiced List, Set, Queue, and Map interfaces with real-world problems.
-- Implemented list operations, set calculations, queue/stack simulations, and map-based analytics.
-- Built Insurance Policy Management and Voting System using HashMap, LinkedHashMap, TreeMap, and Sets.
-- `RoboWarehouse` (Insertion Sort) – Dynamically inserted package weights while maintaining ascending order; optimized for low memory and streaming data.
-- `CinemaHouse` (Bubble Sort) – Sorted small sets of movie showtimes using simple, easy-to-maintain logic.
-- `CropMonitor` (Quick Sort) – Efficiently sorted large, unordered sensor data by timestamp using fast partition-based sorting.
+    - Implemented list operations, set calculations, queue/stack simulations, and map-based analytics.
+    - Built Insurance Policy Management and Voting System using HashMap, LinkedHashMap, TreeMap, and Sets.
+    - `RoboWarehouse` (Insertion Sort) – Dynamically inserted package weights while maintaining ascending order; optimized for low memory and streaming data.
+    - `CinemaHouse` (Bubble Sort) – Sorted small sets of movie showtimes using simple, easy-to-maintain logic.
+    - `CropMonitor` (Quick Sort) – Efficiently sorted large, unordered sensor data by timestamp using fast partition-based sorting.
 - Practiced choosing optimal sorting algorithms based on real-world constraints.
 
 🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+
+### Day 27 - Scenario-Based Problems on DSA & OOPS
+
+*(Date: 17-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting.
+   - ArtExpo – Sort Artists by Registration Time
+   - FleetManager – Vehicle Maintenance Scheduler
+   - IceCreamRush – Sorting Flavors by Popularity
+   - SmartLibrary – Auto-Sort Borrowed Books
+   - GeoMeasure Solutions
+   - Bag-n-Ball Organizer
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [OOPs Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
