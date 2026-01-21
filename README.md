@@ -407,11 +407,14 @@ ___
 -  Successfully completed all assigned programs and verified the output results.
 
 🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
 🔗 *Link :* [OOPs Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
 ---
 
-### Day 25 - Scenario-Based(DSA)
+## Week 4 : Java Collections Concepts, Scenario-Based & LeetCode Problems
+
+### Day 25 - Java Generics & Scenario-Based Problems on DSA
 
 *(Date: 15-Jan-2026)*
 - Covered Java Generics fundamentals: type safety, reusability, bounded types, and wildcards.
@@ -425,6 +428,8 @@ ___
 -  Successfully completed all assigned programs and verified the output results.
 
 🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [Generics](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 
 --- 
 
@@ -440,6 +445,8 @@ ___
 - Practiced choosing optimal sorting algorithms based on real-world constraints.
 
 🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [Java Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
 
 ---
 
@@ -459,4 +466,36 @@ ___
 🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 🔗 *Link :* [OOPs Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
+
+### Day 28 - Scenario-Based Problems on DSA & OOPS
+
+*(Date: 19-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting.
+   - EduResults – Rank Sheet Generator
+   - FlashDealz – Product Sorting by Discount
+   - FitnessTracker – Daily Step Count Ranking
+   - Address Book System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [OOPs Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
+
+
+### Day 29 - Scenario-Based Problems on DSA
+
+*(Date: 20-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting.
+   - MovieTime – Theater Show Listings
+   - FoodFest – Sorting Stalls by Customer Footfall 
+   - GamerZone – High Score Ranking System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
