@@ -1,4 +1,4 @@
-package sorting.flashdealz;
+package flashdealz;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package sorting.flashdealz;
+package flashdealz;
 
 public class SortProducts {
 
