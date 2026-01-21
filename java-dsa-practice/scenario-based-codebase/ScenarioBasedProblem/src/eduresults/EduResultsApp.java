@@ -1,4 +1,4 @@
-package sorting.eduresults;
+package eduresults;
 
 import java.util.Scanner;
 
