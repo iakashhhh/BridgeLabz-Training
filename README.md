@@ -4,7 +4,7 @@
 
 ## 📘 Section A : Training Learning Progress
 
-### 🗓 Day 15 – Introduction to Data Structures & Algorithms
+### Introduction to Data Structures & Algorithms
 **(Date: 02-Jan-2026)**
 - Set up and revised the `dsa-practice` branch structure.
 ```
@@ -216,5 +216,32 @@ ___
 🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+### Day 14 
+
+*(Date: 21-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting and binary search tree.
+   - TailorShop – Sorting Orders by Delivery Deadline
+   - MedWarehouse – Sorting Medicines by Expiry
+   - BST - University's Digital Record System
+   - BST - E-Commerce Product Inventory
+   - BST - Music App - Organize Songs by Track ID
+-  Successfully completed all assigned programs and verified the output results.
+  
+🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
+### Day 15
+
+*(Date: 22-Jan-2026)*
+
+- Practiced real life, scenario based problems on AVL tree.
+   - Gaming App - Real-Time Leaderboard
+   - Online Ticket Booking by Time
+   - Hospital Queue Management
+-  Successfully completed all assigned programs and verified the output results.
+  
+🔗 *Link :* [Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 
