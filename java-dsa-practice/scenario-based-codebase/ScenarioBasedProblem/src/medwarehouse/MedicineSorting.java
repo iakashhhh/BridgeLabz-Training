@@ -1,4 +1,4 @@
-package sorting.medwarehouse;
+package medwarehouse;
 
 class MedicineSorting {
 

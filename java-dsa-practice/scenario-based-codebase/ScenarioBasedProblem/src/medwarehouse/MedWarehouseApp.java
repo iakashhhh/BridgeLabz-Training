@@ -1,4 +1,4 @@
-package sorting.medwarehouse;
+package medwarehouse;
 
 import java.util.Scanner;
 
