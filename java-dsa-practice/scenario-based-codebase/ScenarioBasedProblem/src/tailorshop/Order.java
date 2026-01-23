@@ -1,4 +1,4 @@
-package sorting.tailorshop;
+package tailorshop;
 
 class Order {
 

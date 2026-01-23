@@ -1,4 +1,4 @@
-package sorting.tailorshop;
+package tailorshop;
 
 import java.util.Scanner;
 
