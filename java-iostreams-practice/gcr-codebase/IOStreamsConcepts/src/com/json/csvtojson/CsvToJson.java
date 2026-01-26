@@ -16,7 +16,7 @@ public class CsvToJson {
 
             String[] headers = lines.get(0).split(",");
             JSONArray array = new JSONArray();
-
+ 
             for (int i = 1; i < lines.size(); i++) {
                 String[] values = lines.get(i).split(",");
                 JSONObject obj = new JSONObject();
