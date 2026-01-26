@@ -18,7 +18,7 @@ public class User {
     }
 
     public static void main(String[] args) throws Exception {
-        new User("RashiRaj");
+        new User("Akash");
         new User("VeryLongUsername"); // exception
     }
 }
