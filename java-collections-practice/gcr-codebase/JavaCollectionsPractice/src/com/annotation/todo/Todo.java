@@ -8,4 +8,4 @@ public @interface Todo {
     String task();
     String assignedTo();
     String priority() default "MEDIUM";
-}
+} 

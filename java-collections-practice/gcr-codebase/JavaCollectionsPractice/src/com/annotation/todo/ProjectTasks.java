@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 
 public class ProjectTasks {
 
-    @Todo(task = "Implement login", assignedTo = "Rashi", priority = "HIGH")
+    @Todo(task = "Implement login", assignedTo = "Akash", priority = "HIGH")
     public void loginFeature() {}
 
     @Todo(task = "Add search feature", assignedTo = "Amit")
@@ -24,5 +24,5 @@ public class ProjectTasks {
                 );
             }
         }
-    }
+    } 
 }
