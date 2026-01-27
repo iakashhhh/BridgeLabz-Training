@@ -542,3 +542,20 @@ ___
 
  
 ---
+
+### Day 32 - Scenario-Based on Collections
+
+*(Date: 23-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - FeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day1)
+
+---
+
