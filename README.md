@@ -500,6 +500,7 @@ ___
 🔗 *Link :* [DSA Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+
 ###  Day 30 – DSA Sorting scenario, BST scenario, Regex & JUnit practice
 **(Date: 21-Jan-2026)**
 
@@ -515,5 +516,28 @@ ___
 
 🔗**Code Link:**
  [DSA Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+ 
  [Regex Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
- [Jnuit Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/jnuit)
+ 
+ [Jnuit Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/junit)
+
+ ---
+
+ ###  Day 31 – DSA Tree scenario, Annotation & Reflection practice
+**(Date: 22-Jan-2026)**
+
+- Implemented AVL Tree scenarios for balanced and efficient data handling:
+  - Gaming Leaderboard – Real-time player insert/update, top rankings, and removals.
+  - Online Ticket Booking – Managed events sorted by time with insert, delete, and ordered display.
+  - Hospital Queue – Handled patient registration, deletion, and arrival-time ordering.
+- Practiced Java Annotations & Reflection for runtime metadata access, dynamic method invocation, and class inspection.
+- Focused on self-balancing trees, fast lookups, and advanced Java features.
+
+🔗**Code Link:**
+ [DSA Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+ 
+ [Annotation Practice](http://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotation)
+ 
+ [Reflection Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
+
+---
