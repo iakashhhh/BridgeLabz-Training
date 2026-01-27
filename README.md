@@ -514,12 +514,12 @@ ___
 - Practiced Regex for pattern matching and JUnit for automated unit testing of Java programs.
 - Focused on efficient data handling, real-time sorting, structured storage, and test-driven development.
 
-🔗**Code Link:**
- [DSA Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [DSA Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
  
- [Regex Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
+🔗 *Link :* [Regex Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
  
- [Jnuit Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/junit)
+🔗 *Link :* [Jnuit Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/junit)
 
  ---
 
@@ -533,12 +533,12 @@ ___
 - Practiced Java Annotations & Reflection for runtime metadata access, dynamic method invocation, and class inspection.
 - Focused on self-balancing trees, fast lookups, and advanced Java features.
 
-🔗**Code Link:**
- [DSA Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [DSA Scenario Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
  
- [Annotation Practice](http://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotation)
+🔗 *Link :* [Annotation Practice](http://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotation)
  
- [Reflection Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
+🔗 *Link :* [Reflection Practice](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
 
  
 ---
@@ -559,3 +559,17 @@ ___
 
 ---
 
+
+### Day 33 - Scenario-Based on Collections
+
+*(Date: 24-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day2)
