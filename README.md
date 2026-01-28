@@ -559,11 +559,18 @@ ___
 
 ---
 
+## Week 5 : Java IOStreams Concepts, Scenario-Based & LeetCode Problems
 
-### Day 33 - Scenario-Based on Collections
+### Day 32 - CSV Data Handling, Scenario-Based on Collections
 
-*(Date: 24-Jan-2026)*
+*(Date: 23-Jan-2026)*
 
+- Learned the introduction to `CSV` and understood its structure and common use cases for storing tabular data.
+- Studied how to `read CSV files` in Java and process rows and columns efficiently.
+- Learned how to `write data into CSV files` programmatically while maintaining proper format.
+- Studied `parsing CSV data` to extract records, handle delimiters, and manage missing values.
+- Learned `data validation techniques` to ensure CSV data accuracy, consistency, and correctness.
+- Learned real-world use cases and best practices for csv data handling in Java.
 - Practiced real life, scenario based problems.
   - MedInventory – Smart Hospital Inventory Tracker
   - ChatLogParser – Messaging Pattern Analyzer
@@ -571,5 +578,7 @@ ___
   - ExamResultUploader – Bulk Marks Processing
   - DealTracker – E-Commerce Discount Validator
 -  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [CSV Data](https://github.com/iakshhhh/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcept/src/com/csv)
 
 🔗 *Link :* [Scenario-Based Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day2)
