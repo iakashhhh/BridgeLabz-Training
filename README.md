@@ -543,22 +543,6 @@ ___
  
 ---
 
-### Day 32 - Scenario-Based on Collections
-
-*(Date: 23-Jan-2026)*
-
-- Practiced real life, scenario based problems.
-  - ResumeAnalyzer – Smart Resume Filtering System
-  - TravelLog – Trip Organizer for Backpackers
-  - FeedbackGuru – Smart Survey Analyzer
-  - CodeRepoCleaner – Java File Scanner and Organizer
-  - ExamScanner – Digital Answer Sheet Validator
--  Successfully completed all assigned programs and verified the output results.
-
-🔗 *Link :* [Scenario-Based Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day1)
-
----
-
 ## Week 5 : Java IOStreams Concepts, Scenario-Based & LeetCode Problems
 
 ### Day 32 - CSV Data Handling, Scenario-Based on Collections
@@ -579,6 +563,30 @@ ___
   - DealTracker – E-Commerce Discount Validator
 -  Successfully completed all assigned programs and verified the output results.
 
-🔗 *Link :* [CSV Data](https://github.com/iakshhhh/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcept/src/com/csv)
+🔗 *Link :* [CSV Data](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcept/src/com/csv)
 
-🔗 *Link :* [Scenario-Based Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day2)
+🔗 *Link :* [Scenario-Based Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day1)
+
+---
+
+### Day 33 - JSON Data, Scenario-Based on Collections
+
+*(Date: 24-Jan-2026)*
+
+- Learned the introduction to `JSON` and understood its structure, syntax, and role in data exchange between systems.
+- Studied how to `read JSON data` in Java from files, strings, or API responses.
+- Learned how to `write JSON data` programmatically while maintaining proper formatting and structure.
+- Studied `parsing JSON data` to extract objects, arrays, and nested values for processing.
+- Learned `JSON schema validation` to verify the structure, data types, and required fields in JSON documents.
+- Practiced real life, scenario based problems.
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+-  Successfully completed all assigned programs and verified the output results.
+
+
+🔗 *Link :* [JSON Data](https://github.com/sanya-modi/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcept/src/com/jsondata)
+
+🔗 *Link :* [Scenario-Based Collections](https://github.com/sanya-modi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day2)
