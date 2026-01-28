@@ -587,6 +587,6 @@ ___
 -  Successfully completed all assigned programs and verified the output results.
 
 
-🔗 *Link :* [JSON Data](https://github.com/sanya-modi/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcept/src/com/jsondata)
+🔗 *Link :* [JSON Data](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcept/src/com/json)
 
-🔗 *Link :* [Scenario-Based Collections](https://github.com/sanya-modi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day2)
+🔗 *Link :* [Scenario-Based Collections](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/day2)
