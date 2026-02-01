@@ -607,3 +607,24 @@ ___
 🔗 *Link :* [Lambda Expression](https://github.com/iakashhhh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdaexpressions) 
 
 🔗 *Link :* [Method Reference](https://github.com/iakashhhh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/method_references) 
+
+---
+
+
+### Day 35 – Streams & Collectors  
+**(Date: 28-Jan-2026)**
+- Studied Java Stream API fundamentals and lazy evaluation.
+- Practiced stream creation from collections, arrays, and generators.
+- Used intermediate operations:
+  - `filter`, `map`, `flatMap`, `sorted`, `distinct`, `limit`.
+- Applied terminal operations:
+  - `collect`, `forEach`, `reduce`, `count`, `findFirst`.
+- Learned Collectors usage:
+  - `toList`, `toSet`, `joining`
+  - `groupingBy`, `partitioningBy`, `summarizingInt`.
+- Practiced parallel streams and performance considerations.
+- Implemented a mini project and Java 8 workshop using Streams and Collectors:
+  - Appointment filtering, grouping, counting, and sorting.
+- Solved practice problems and committed all work.
+
+🔗 *Link :* [Streams & Collectors](https://github.com/iakashhhh/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com)
