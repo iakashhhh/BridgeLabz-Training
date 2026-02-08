@@ -669,8 +669,21 @@ ___
 Studied the `Builder Pattern` to construct complex objects step by step with better readability.
 Learned `UML designing` to visually represent system structure, relationships, and design patterns effectively.
 
-🔗 *Link :* [Design Principles](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-designpattern-practice/java-designpattern-practice/gcr-codebase/DesignPatternPractice/src/com/librarymanagementsystem) 
+🔗 *Link :* [Design Principles](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-designpattern-practice/java-designpattern-practice/gcr-codebase/DesignPatternPractice/src/com) 
 
 ---
+### Day 38 - Multi-Threading
+*(Date:2-Feb-2026)*
 
+- Learned multithreading and how it allows concurrent execution of multiple tasks within a single process.
+- Studied different ways to create threads using the `Thread` class and `Runnable` interface.
+- Understood the thread lifecycle and commonly used thread methods.
+- Learned daemon threads and their role in background tasks.
+- Studied synchronization to prevent race conditions and ensure thread safety.
+- Learned thread communication using `wait()`, `notify()`, and `notifyAll()`.
+- Understood deadlock and techniques to avoid it.
+- Studied `ReentrantLock` and compared it with synchronized blocks.
 
+🔗 *Link :* [Multi-Threading](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-designpattern-practice/java-designpattern-practice/gcr-codebase/multithreading/src/com) 
+
+---
