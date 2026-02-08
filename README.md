@@ -701,7 +701,7 @@ Learned `UML designing` to visually represent system structure, relationships, a
 
 ## Week 8 : MySQL & JDBC 
 
-### Day 38 : DBMS & MySQL
+### Day 40 : DBMS & MySQL
 *(Date: 07-Feb-2026)*
 
 - Explored the fundamentals of `DBMS` and how it enables efficient storage, retrieval, and management of data.
