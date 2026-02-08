@@ -687,3 +687,14 @@ Learned `UML designing` to visually represent system structure, relationships, a
 🔗 *Link :* [Multi-Threading](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-designpattern-practice/java-designpattern-practice/gcr-codebase/multithreading/src/com) 
 
 ---
+### Day 39 – Bank Transactions Using Multithreading
+**(Date: 03-Feb-2026)**
+
+- Solved a Java multithreading problem simulating concurrent bank transactions.
+- Implemented a thread-safe Bank class with synchronised deposit, withdrawal, and balance operations to prevent race conditions.
+- Created multiple Customer threads to perform transactions concurrently and verified correctness through final account balances.
+- This exercise strengthened my understanding of thread creation, synchronisation, and real-world concurrency handling.
+
+🔗 *Link :* [Multi-Threading-Scenario-Based](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-designpattern-practice/java-designpattern-practice/scenario-based/ScenarioBasedProblem/src/com)
+
+---
